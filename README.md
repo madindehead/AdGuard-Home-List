@@ -1,5 +1,7 @@
 # AdGuard Home - List
 
+# Resycned with Ealenn/AdGuard-Home-List on 08/08/2022
+
 ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ealenn/AdGuard-Home-List/gh-pages/badge-allow.json&style=for-the-badge&logo=firefox)
 ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Ealenn/AdGuard-Home-List/gh-pages/badge-block.json&style=for-the-badge&logo=AdBlock)
 [![Explorer](https://img.shields.io/badge/view-explorer_website-blue?logo=firefox&style=for-the-badge)](https://adguard-home-list.herokuapp.com/)
